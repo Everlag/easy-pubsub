@@ -1,0 +1,22 @@
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/klauspost/compress v1.10.3
+github.com/klauspost/compress/flate
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/stretchr/testify v1.4.0
+## explicit
+github.com/stretchr/testify/assert
+github.com/stretchr/testify/require
+# gopkg.in/yaml.v2 v2.2.8
+gopkg.in/yaml.v2
+# nhooyr.io/websocket v1.8.6
+## explicit
+nhooyr.io/websocket
+nhooyr.io/websocket/internal/bpool
+nhooyr.io/websocket/internal/errd
+nhooyr.io/websocket/internal/wsjs
+nhooyr.io/websocket/internal/xsync
